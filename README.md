@@ -126,6 +126,3 @@ class Produk {
 <img width="400" height="600" alt="Screenshot 2025-11-25 232556" src="https://github.com/user-attachments/assets/a57c41e6-66bc-4d91-a185-c006a8c68934" />
 <img width="400" height="600" alt="Screenshot 2025-11-25 232643" src="https://github.com/user-attachments/assets/c820ee76-ed72-47f7-9175-24314e960f67" />
 
-
-
-Mau aku simpan README ini sebagai file `README.md` dan taruh di projectmu?
